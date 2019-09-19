@@ -1,0 +1,10 @@
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Entities\bin\Debug\netstandard2.0\TaskManager.Entities.deps.json
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Entities\bin\Debug\netstandard2.0\TaskManager.Entities.dll
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Entities\bin\Debug\netstandard2.0\TaskManager.Entities.pdb
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Entities\obj\Debug\netstandard2.0\TaskManager.Entities.csprojAssemblyReference.cache
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Entities\obj\Debug\netstandard2.0\TaskManager.Entities.csproj.ResolveComReference.cache
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Entities\obj\Debug\netstandard2.0\TaskManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Entities\obj\Debug\netstandard2.0\TaskManager.Entities.AssemblyInfoInputs.cache
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Entities\obj\Debug\netstandard2.0\TaskManager.Entities.AssemblyInfo.cs
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Entities\obj\Debug\netstandard2.0\TaskManager.Entities.dll
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Entities\obj\Debug\netstandard2.0\TaskManager.Entities.pdb

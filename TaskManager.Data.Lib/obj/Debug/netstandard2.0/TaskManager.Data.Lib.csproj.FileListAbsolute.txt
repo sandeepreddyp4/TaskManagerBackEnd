@@ -1,0 +1,9 @@
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Data.Lib\bin\Debug\netstandard2.0\TaskManager.Data.Lib.deps.json
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Data.Lib\bin\Debug\netstandard2.0\TaskManager.Data.Lib.dll
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Data.Lib\obj\Debug\netstandard2.0\TaskManager.Data.Lib.csprojAssemblyReference.cache
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Data.Lib\obj\Debug\netstandard2.0\TaskManager.Data.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Data.Lib\obj\Debug\netstandard2.0\TaskManager.Data.Lib.AssemblyInfoInputs.cache
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Data.Lib\obj\Debug\netstandard2.0\TaskManager.Data.Lib.AssemblyInfo.cs
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Data.Lib\bin\Debug\netstandard2.0\TaskManager.Data.Lib.pdb
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Data.Lib\obj\Debug\netstandard2.0\TaskManager.Data.Lib.dll
+C:\Users\Administrator\TaskManagerBackEnd\TaskManager.Data.Lib\obj\Debug\netstandard2.0\TaskManager.Data.Lib.pdb

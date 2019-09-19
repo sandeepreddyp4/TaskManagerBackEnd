@@ -1,0 +1,14 @@
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\bin\Debug\TasksManager.Data.Lib.dll
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\bin\Debug\TasksManager.Data.Lib.pdb
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\obj\Debug\TasksManager.Data.Lib.csprojAssemblyReference.cache
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\obj\Debug\TasksManager.Data.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\obj\Debug\TasksManager.Data.Lib.dll
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\obj\Debug\TasksManager.Data.Lib.pdb
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\bin\Debug\TasksManager.Data.Lib.dll.config
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\bin\Debug\TasksManager.Entities.dll
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\bin\Debug\TasksManager.Entities.pdb
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Data.Lib\obj\Debug\TasksManager.Data.Lib.csproj.CopyComplete

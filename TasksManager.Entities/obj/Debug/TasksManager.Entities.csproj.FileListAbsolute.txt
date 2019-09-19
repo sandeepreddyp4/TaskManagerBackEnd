@@ -1,0 +1,5 @@
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Entities\bin\Debug\TasksManager.Entities.dll
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Entities\bin\Debug\TasksManager.Entities.pdb
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Entities\obj\Debug\TasksManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Entities\obj\Debug\TasksManager.Entities.dll
+C:\Users\Administrator\TaskManagerBackEnd\TasksManager.Entities\obj\Debug\TasksManager.Entities.pdb
